@@ -11,6 +11,7 @@ def kumpulan_input():
 
     # Masukkan Jumlah Hari dengnan validasi yang benar dan sesuai kriteria dengan mengguunakan fungsi validasi_jumlah_hari().
     Jumlah_hari = masukkan_jumlah_hari()
+    
 
     # Masukkan Jumlah tetap biaya peminjaman per hari jika suatu hari perngguna terkena denda akibat telat tidak mengembalikan buku. 
     biaya_peminjaman_hari = 2000
